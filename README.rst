@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/svx/plone.snap.svg?branch=master
+    :target: https://travis-ci.org/svx/plone.snap
+
 plone.snap
 ==========
 WIP - A Plone `Snap Package <http://snapcraft.io/>`_.
