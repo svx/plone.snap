@@ -9,6 +9,8 @@ Install a 'standalone instance' with everything in one place.
 Setup
 -----
 
+- `snapd <http://snapcraft.io/docs/core/install>`_
+
 Dependencies
 ~~~~~~~~~~~~
 
