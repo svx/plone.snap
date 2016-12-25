@@ -1,0 +1,21 @@
+NOTES
+=====
+
+Links
+-----
+
+Scripts
+~~~~~~~
+
+- https://github.com/ubuntu/snappy-playpen/blob/master/kpcli/snapcraft.yaml
+
+PIP
+~~~
+
+- https://github.com/liu-xiao-guo/restapi-python/blob/master/snapcraft.yaml
+- https://github.com/snapcore/snapcraft/blob/master/integration_tests/snaps/pip-requirements-file/snapcraft.yaml
+
+Command
+~~~~~~~
+
+- https://github.com/iovisor/bcc/blob/master/snapcraft/snapcraft.yaml
