@@ -1,5 +1,5 @@
 plone.snap
-=======
+==========
 
 .. warning::
     !! WIP - Proof Of Concept - Do Not Use In Production !!
@@ -8,7 +8,7 @@ plone.snap
     This is project is currently under development and not suited for production.
 
 About
---------
+-----
 
 A Plone `Snap Package <http://snapcraft.io/>`_.
 
